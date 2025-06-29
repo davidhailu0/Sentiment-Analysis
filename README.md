@@ -22,36 +22,7 @@ This project demonstrates a basic machine learning pipeline for text classificat
 
 ## Setup
 
-### 1. Create Directories
-
-First, create the necessary directories:
-
-```bash
-mkdir src
-mkdir models
-```
-
-### 2. Create Files
-
-Place the code provided in the respective files:
-
-requirements.txt (same as before)
-
-main.py (updated from fastapi_app_py)
-
-train.py (updated)
-
-predict.py (updated)
-
-src/**init**.py (empty file)
-
-src/model_service.py (new)
-
-src/cli_predict.py (new)
-
-README.md (this file)
-
-### 3. Install Dependencies
+### 1. Install Dependencies
 
 It's recommended to use a virtual environment.
 
